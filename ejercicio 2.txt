@@ -1,0 +1,5 @@
+Ejercicio 2
+
+Indique que utiliza para clonar este repositorio al Repositorio remoto:
+
+Utilizamos GitHub Desktop para poner este archivo de texto el cual modifique con Notepad++
