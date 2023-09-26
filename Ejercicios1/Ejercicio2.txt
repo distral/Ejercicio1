@@ -1,0 +1,4 @@
+La manera de clonar un repositorio remoto a nuestro computadora para tener el repositorio de manera local es: 
+En el menu principal del escritorio remoto crear un nuevo repositorio remoto, luego ingresar a la aplicacion de escritorio
+pulsar en current repository y luego en el boton de add, despues hay que seleccionar la opcion de clonar repositorio y ahi
+van a aparecer todos los escritorios remotos con los que contamos, y ahi seleccionamos el que queremos clonar
